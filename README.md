@@ -1,7 +1,7 @@
 
 # Enhanced PDF Chatbot System
 
-This project develops a local chatbot that facilitates interaction with PDF documents, particularly aimed at assisting students and educators by extracting and analyzing text from textbooks and lecture slides.
+RegPDFBot is an innovative educational tool designed to transform the way students and educators interact with PDF materials. Leveraging advanced NLP technologies and deep learning models such as Retriever-Augmented Generation (RAG), this local chatbot facilitates efficient querying and information retrieval directly from academic texts and lecture slides. Aimed at enhancing study efficiency and comprehension, RegPDFBot not only answers queries but also helps in summarizing and explaining complex concepts contained within PDF documents.
 
 ## Description
 
@@ -23,8 +23,8 @@ The Enhanced PDF Chatbot System employs deep learning techniques, including Retr
 Clone the repository and install dependencies.
 
 ```
-git clone https://github.com/yourusername/yourprojectname.git
-cd yourprojectname
+git clone https://github.com/MohamedRagabAbbas/AcademicRegBot.git
+cd AcademicRegBot
 pip install transformers unstructured langchain_community
 ```
 
